@@ -17,8 +17,8 @@ function GridExample() {
                 to additional content. This content is a little bit longer.
               </Card.Text>
             </Card.Body>
-            <Card.Footer className="text-center mb-0">
-              <Button variant="primary" className="fs-5">Call to action!</Button>
+            <Card.Footer className="text-center mb-0 bg-white">
+              <Button variant="primary" className="fs-5">Find Out More!</Button>
             </Card.Footer>
           </Card>
         </Col>
